@@ -4,7 +4,7 @@ Welcome to the official GitHub repository for **Asimov LLC**, creators of [Synta
 
 ## About Syntax
 
-**Syntax** is an AI writing assistant that guides users through every stage of the writing process. Built on the QUIZ model (Query, Understanding, Interrogation, Zeitgeist), Syntax encourages critical thinking and helps users produce authentic, original documents.
+**Syntax** is an AI writing assistant that guides users through every stage of the writing process. Syntax encourages critical thinking and helps users produce authentic, original documents.
 
 ## Features
 
