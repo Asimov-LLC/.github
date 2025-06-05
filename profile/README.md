@@ -1,6 +1,6 @@
 # Remora LLC — Syntax: AI-Powered Document Editor
 
-Welcome to the official GitHub repository for **Remora LLC**, creators of [Syntax](https://asi-mov.com)—an AI-powered document editor designed to help you write original, high-quality work with the support of responsible AI.
+Welcome to the official GitHub repository for **Remora LLC**, creators of [Syntax](https://remora.llc/syntax)—an AI-powered document editor designed to help you write original, high-quality work with the support of responsible AI.
 
 ## About Syntax
 
@@ -16,7 +16,7 @@ Welcome to the official GitHub repository for **Remora LLC**, creators of [Synta
 
 ## Get Started
 
-Visit our website: [asi-mov.com](https://asi-mov.com)
+Visit our website: [remora.llc](https://remora.llc)
 
 ---
 
